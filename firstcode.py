@@ -5,5 +5,9 @@ y = 47
 print(x, y)
 del x
 
+
 # this is a comment
-e = 45
+
+def write():
+  print("weitr")
+  return
