@@ -7,7 +7,3 @@ del x
 
 
 # this is a comment
-
-def write():
-  print("weitr")
-  return
