@@ -6,3 +6,4 @@ print(x, y)
 del x
 
 # this is a comment
+e = 45
