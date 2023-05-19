@@ -11,3 +11,7 @@ del x
 def write():
   print("weitr")
   return
+def add(a,b):
+  c=a+b
+  return c
+  
